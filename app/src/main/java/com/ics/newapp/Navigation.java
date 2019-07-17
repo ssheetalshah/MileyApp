@@ -30,6 +30,7 @@ import android.widget.Toast;
 import com.ics.newapp.fregment.Contact_us_fragment;
 import com.ics.newapp.fregment.Create_Activity;
 import com.ics.newapp.fregment.Event_Host_User_Profile;
+import com.ics.newapp.fregment.Faq_fragment;
 import com.ics.newapp.fregment.Favorite_list;
 import com.ics.newapp.fregment.Guest_Event_Screen;
 import com.ics.newapp.fregment.Host_Event_Screen;
@@ -303,6 +304,9 @@ public class Navigation extends AppCompatActivity
                 break;
             case R.id.nav_help:
                 fragment = new help_fragment();
+                break;
+            case R.id.nav_faq:
+                fragment = new Faq_fragment();
                 break;
 
             case R.id.nav_share:

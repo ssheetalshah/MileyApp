@@ -42,7 +42,7 @@
                             android:layout_height="28dp"
                             android:layout_gravity="center"
                             android:layout_weight="0.85"
-                            android:src="@drawable/name_icon" />
+                            android:src="@drawable/name_new" />
 
                         <EditText
                             android:layout_width="match_parent"
@@ -75,7 +75,7 @@
                             android:layout_height="28dp"
                             android:layout_gravity="center"
                             android:layout_weight="0.85"
-                            android:src="@drawable/mb" />
+                            android:src="@drawable/mobile_new" />
 
                         <EditText
                             android:layout_width="match_parent"
@@ -106,7 +106,7 @@
                             android:layout_height="28dp"
                             android:layout_gravity="top"
                             android:layout_weight="0.85"
-                            android:src="@drawable/about_icon" />
+                            android:src="@drawable/query" />
 
                         <EditText
                             android:id="@+id/text_dialog"

@@ -146,9 +146,9 @@
             android:paddingLeft="25dp">
 
             <ImageView
-                android:layout_width="25dp"
-                android:layout_height="25dp"
-                android:src="@drawable/email" />
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:src="@drawable/email_new" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -169,7 +169,7 @@
             <ImageView
                 android:layout_width="25dp"
                 android:layout_height="25dp"
-                android:src="@drawable/mb" />
+                android:src="@drawable/mobile_new" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -191,7 +191,7 @@
             <ImageView
                 android:layout_width="25dp"
                 android:layout_height="25dp"
-                android:src="@drawable/nameicon" />
+                android:src="@drawable/my_activities" />
 
             <TextView
                 android:layout_width="wrap_content"
